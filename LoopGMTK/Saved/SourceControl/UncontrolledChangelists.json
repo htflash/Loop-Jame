@@ -5,23 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/aller/Documents/GitHub/Loop-Jame/LoopGMTK/Content/PrototypingLvl.umap",
 				"C:/Users/aller/Documents/GitHub/Loop-Jame/LoopGMTK/Content/HuntersFiles/PrototypingLvl.umap",
-				"C:/Users/aller/Documents/GitHub/Loop-Jame/LoopGMTK/Content/Blueprints/BP_Character.uasset",
-				"C:/Users/aller/Documents/GitHub/Loop-Jame/LoopGMTK/Content/HuntersFiles/ProceduralDungeon/Master_Room.uasset",
-				"C:/Users/aller/Documents/GitHub/Loop-Jame/LoopGMTK/Content/HuntersFiles/ProceduralDungeon/Dungeon_Room_1.uasset",
-				"C:/Users/aller/Documents/GitHub/Loop-Jame/LoopGMTK/Content/HuntersFiles/ProceduralDungeon/Dungeon_Generator.uasset",
-				"C:/Users/aller/Documents/GitHub/Loop-Jame/LoopGMTK/Content/HuntersFiles/ProceduralDungeon/Dungeon_Room_2.uasset",
 				"C:/Users/aller/Documents/GitHub/Loop-Jame/LoopGMTK/Content/HuntersFiles/ProceduralDungeon/Dungeon_Room_3.uasset",
-				"C:/Users/aller/Documents/GitHub/Loop-Jame/LoopGMTK/Content/HuntersFiles/ProceduralDungeon/Dungeon_Room_4.uasset",
-				"C:/Users/aller/Documents/GitHub/Loop-Jame/LoopGMTK/Content/HuntersFiles/ProceduralDungeon/End_Wall.uasset",
-				"C:/Users/Peyton/OneDrive/Documents/Unreal Projects/LoopGMTK/Content/Inputs/IMC_InputMapping.uasset",
-				"C:/Users/Peyton/OneDrive/Documents/Unreal Projects/LoopGMTK/Content/Lvl.umap",
-				"C:/Users/Peyton/OneDrive/Documents/Unreal Projects/LoopGMTK/Content/Inputs/IA_Move.uasset",
-				"C:/Users/Peyton/OneDrive/Documents/Unreal Projects/LoopGMTK/Content/Blueprints/BP_Character.uasset",
-				"C:/Users/Peyton/OneDrive/Documents/Unreal Projects/LoopGMTK/Content/Blueprints/BP_Gamemode.uasset",
-				"C:/Users/Peyton/OneDrive/Documents/Unreal Projects/LoopGMTK/Content/Inputs/IA_MoveRight.uasset",
-				"C:/Users/Peyton/OneDrive/Documents/Unreal Projects/LoopGMTK/Content/Inputs/IA_MoveForward.uasset"
+				"C:/Users/aller/Documents/GitHub/Loop-Jame/LoopGMTK/Content/Lvl.umap"
 			]
 		}
 	]
