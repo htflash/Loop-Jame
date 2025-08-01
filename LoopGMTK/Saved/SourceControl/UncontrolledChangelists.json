@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Peyton/OneDrive/Documents/Unreal Projects/LoopGMTK/Content/Inputs/IMC_InputMapping.uasset",
+				"C:/Users/Peyton/OneDrive/Documents/Unreal Projects/LoopGMTK/Content/Lvl.umap",
+				"C:/Users/Peyton/OneDrive/Documents/Unreal Projects/LoopGMTK/Content/Inputs/IA_Move.uasset",
+				"C:/Users/Peyton/OneDrive/Documents/Unreal Projects/LoopGMTK/Content/Blueprints/BP_Character.uasset",
+				"C:/Users/Peyton/OneDrive/Documents/Unreal Projects/LoopGMTK/Content/Blueprints/BP_Gamemode.uasset",
+				"C:/Users/Peyton/OneDrive/Documents/Unreal Projects/LoopGMTK/Content/Inputs/IA_MoveRight.uasset",
+				"C:/Users/Peyton/OneDrive/Documents/Unreal Projects/LoopGMTK/Content/Inputs/IA_MoveForward.uasset"
+			]
+		}
+	]
+}
